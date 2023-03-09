@@ -31,18 +31,18 @@
     --text-gradient-yellow: #ffffff;
     /* solid */
   
-    --jet: hsl(0, 0%, 22%);
-    --onyx: hsl(240, 1%, 17%);
-    --eerie-black-1: hsl(240, 2%, 13%);
-    --eerie-black-2: hsl(240, 2%, 12%);
+    --jet: #0F52BA;
+    --onyx: #0F52BA;
+    --eerie-black-1: #0F52BA;
+    --eerie-black-2: #0F52BA;
     --smoky-black: #0F52BA;
-    --white-1: hsl(0, 0%, 100%);
-    --white-2: hsl(0, 0%, 98%);
-    --orange-yellow-crayola: hsl(45, 100%, 72%);
-    --vegas-gold: hsl(45, 54%, 58%);
-    --light-gray: hsl(0, 0%, 84%);
-    --light-gray-70: hsla(0, 0%, 84%, 0.7);
-    --bittersweet-shimmer: hsl(0, 43%, 51%);
+    --white-1: #ffffff;
+    --white-2: #ffffff;
+    --orange-yellow-crayola: #ffffff;
+    --vegas-gold: #fffffff;
+    --light-gray: #fffffff;
+    --light-gray-70: #fffffff;
+    --bittersweet-shimmer: ##0F52BA;
   
     /**
      * typography
